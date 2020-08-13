@@ -43,8 +43,3 @@ def ScrapeTeamPlayerStats(team, url):
 
     df_squad = pd.DataFrame.from_dict(pre_df)
     df_squad.to_csv(f'TeamPlayerStats/{team}SquadStats.csv')
-
-team = 'Chelsea'
-url = 'https://fbref.com/en/squads/cff3d9bb/Chelsea-Stats'
-
-ScrapeTeamPlayerStats(team, url)
