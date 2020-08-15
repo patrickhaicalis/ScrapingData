@@ -1,0 +1,10 @@
+,age,minutes_90s,squad,lg_finish,tackles,interceptions,dribbled_past,tackles_won,blocks,pressures,errors,blocked_passes,dribble_tackles_pct,pressures_att_3rd,pressures_mid_3rd,pressures_def_3rd,blocked_shots_saves,pressure_regains,tackles_att_3rd,dribble_tackles,tackles_interceptions,tackles_mid_3rd,pressure_regain_pct,tackles_def_3rd,clearances,blocked_shots,dribbles_vs
+0,20,0.1,Boulogne,19th,,,,,,,,,,,,,,,,,0,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,22,35.6,Caen,3rd,,,,,,,,,,,,,,,,,0,,,,,,
+3,23,35.4,Caen,13th,,,,,,,,,,,,,,,,,0,,,,,,
+4,24,33.6,Leicester City,1st,,,,,,,,,,,,,,,,,0,,,,,,
+5,25,34.9,Chelsea,1st,,83,,84,,,,,,,,,,,,,0,,,,,,
+6,26,33.3,Chelsea,5th,110,91,51,76,50,715,2,46,36.3,87,370,258,0,225,5,29,201,51,31.5,54,22,4,80
+7,27,34.4,Chelsea,3rd,78,45,41,61,72,899,0,64,32.8,242,430,227,0,286,13,20,123,41,31.8,24,26,8,61
+8,28,19.2,Chelsea,4th,58,46,21,43,43,438,0,40,36.4,95,190,153,0,141,7,12,104,22,32.2,29,35,3,33
