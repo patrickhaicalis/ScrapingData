@@ -1,0 +1,10 @@
+,gca_per90,sca,age,minutes_90s,gca_fouled,sca_dribbles,sca_passes_live,sca_shots,gca_passes_dead,gca_og_for,squad,gca_shots,sca_fouled,gca_passes_live,sca_passes_dead,gca_dribbles,sca_per90,lg_finish,gca
+0,,,20,0.1,,,,,,,Boulogne,,,,,,,19th,
+1,,,,,,,,,,,,,,,,,,,
+2,,,22,35.6,,,,,,,Caen,,,,,,,3rd,
+3,,,23,35.4,,,,,,,Caen,,,,,,,13th,
+4,,,24,33.6,,,,,,,Leicester City,,,,,,,1st,
+5,,,25,34.9,,,,,,,Chelsea,,,,,,,1st,
+6,0.18,78,26,33.3,0,3,73,2,0,0,Chelsea,1,0,5,0,0,2.34,5th,6
+7,0.15,90,27,34.4,0,1,85,2,0,0,Chelsea,0,1,5,1,0,2.62,3rd,5
+8,0.05,51,28,19.2,0,0,47,1,0,0,Chelsea,0,3,1,0,0,2.65,4th,1
