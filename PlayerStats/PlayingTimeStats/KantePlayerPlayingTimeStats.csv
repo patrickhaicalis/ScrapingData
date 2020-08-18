@@ -1,0 +1,10 @@
+,points_per_match,age,minutes_90s,minutes_per_game,squad,unused_subs,lg_finish,on_goals_against,minutes,xg_plus_minus_wowy,games,games_subs,on_goals_for,xg_plus_minus,minutes_per_start,plus_minus_wowy,plus_minus_per90,minutes_pct,xg_plus_minus_per90,on_xg_for,plus_minus,on_xg_against,minutes_per_sub,games_starts
+0,,20,0.1,12,Boulogne,,19th,,12,,1,1,,,,,,,,,,,,0
+1,,,,,,,,,,,,,,,,,,,,,,,,
+2,,22,35.6,84,Caen,,3rd,,"3,208",,38,2,,,,,,,,,,,,36
+3,1.24,23,35.4,86,Caen,0,13th,49,"3,183",,37,1,53,,,+2.01,+0.11,93.1,,,+4,,,36
+4,2.16,24,33.6,82,Leicester City,0,1st,29,"3,022",,37,4,59,,,+0.44,+0.89,88.4,,,+30,,,33
+5,2.40,25,34.9,90,Chelsea,1,1st,33,"3,138",,35,0,78,,,-0.94,+1.29,91.8,,,+45,,,35
+6,1.88,26,33.3,88,Chelsea,0,5th,32,"2,994",+0.42,34,0,54,+21.9,,+0.24,+0.66,87.5,+0.66,49.9,+22,28.0,,34
+7,1.89,27,34.4,86,Chelsea,1,3rd,38,"3,092",-0.44,36,0,57,+19.6,86,-0.82,+0.55,90.4,+0.57,52.7,+19,33.0,,36
+8,1.27,28,19.2,79,Chelsea,0,4th,25,"1,732",-0.17,22,2,28,+13.3,84,-0.48,+0.16,50.6,+0.69,30.6,+3,17.2,23,20
