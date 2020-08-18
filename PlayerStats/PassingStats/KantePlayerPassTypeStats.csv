@@ -1,0 +1,10 @@
+,age,minutes_90s,passes_intercepted,passes_live,squad,passes_ground,lg_finish,passes_head,corner_kicks_straight,passes_completed,passes_right_foot,passes_offsides,passes_other_body,passes_low,passes_high,corner_kicks_out,passes_oob,passes_blocked,passes_pressure,passes_free_kicks,corner_kicks,through_balls,crosses,corner_kicks_in,throw_ins,passes_left_foot,passes_dead,passes,passes_switches
+0,20,0.1,,,Boulogne,,19th,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,22,35.6,,,Caen,,3rd,,,,,,,,,,,,,,,,,,,,,,
+3,23,35.4,,,Caen,,13th,,,,,,,,,,,,,,,,,,,,,,
+4,24,33.6,,,Leicester City,,1st,,,,,,,,,,,,,,,,,,,,,,
+5,25,34.9,,,Chelsea,,1st,,,,,,,,,,,,,,,,12,,,,,,
+6,26,33.3,33,2129,Chelsea,1753,5th,50,0,1899,1766,8,1,175,216,0,29,35,364,10,0,3,13,0,3,311,15,2144,57
+7,27,34.4,44,2039,Chelsea,1706,3rd,54,0,1805,1724,9,6,193,157,0,24,50,338,9,0,4,19,0,6,254,17,2056,20
+8,28,19.2,18,1131,Chelsea,817,4th,48,0,975,920,5,7,173,150,0,13,34,241,7,0,0,26,0,1,149,9,1140,18
